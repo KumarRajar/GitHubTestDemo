@@ -1,0 +1,5 @@
+2017-07-18 11:30:05,332 [main] INFO accessibility - @Test(accessibilityAndroidSetting) Methode entered
+2017-07-18 11:30:05,340 [main] INFO accessibility - ApiDemoAccessibilityQueryBack Test via Android Setting using Homepage Icon
+2017-07-18 11:30:17,335 [main] INFO accessibility - Search in serach Result list for text "Accessibility" and after find it click on it
+2017-07-18 11:30:24,864 [main] INFO accessibility - App is closed
+2017-07-18 11:30:24,878 [main] INFO accessibility - Driver task is killed
